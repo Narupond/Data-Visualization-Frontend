@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.value {
+  font-family: 'Prompt', sans-serif;
+}
